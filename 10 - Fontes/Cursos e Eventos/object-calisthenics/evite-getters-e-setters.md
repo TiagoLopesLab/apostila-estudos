@@ -92,4 +92,3 @@ $product = new Product(49.9);
 $discount = 10;
 echo $product->applyDiscount($discount);
 ```
-
