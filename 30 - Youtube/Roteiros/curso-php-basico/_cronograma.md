@@ -5,4 +5,4 @@
 
 ## 02) Variáveis e tipos de dados
 
-## 03) Condicionais (if, else, switch, match)
+## 03) Condicionais (if, else, switch, match) e loops (while e for)
